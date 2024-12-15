@@ -12,6 +12,11 @@ username
 token
 done
 
-use checkout -b branch name 
+use checkout -b branch name
+git checkout -b vanitha1
+git checkout -b vanitha2
+to switch to branch
+git switch vanitha2
+
 
 
